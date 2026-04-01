@@ -69,7 +69,7 @@ The dashboard enables users to explore attrition trends based on:
 ---
 
 ## Dashboard Demo Video
-[Dashboard Video](Employee_Attrition_Analysis_Dashboard.mp4)
+![Dashboard Video](Employee_Attrition_Analysis_Dashboard.mp4)
 
 ---
 
